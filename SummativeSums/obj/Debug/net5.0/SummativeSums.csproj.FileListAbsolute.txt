@@ -1,0 +1,16 @@
+C:\Users\cbmar\source\repos\SummativeSums\bin\Debug\net5.0\SummativeSums.exe
+C:\Users\cbmar\source\repos\SummativeSums\bin\Debug\net5.0\SummativeSums.deps.json
+C:\Users\cbmar\source\repos\SummativeSums\bin\Debug\net5.0\SummativeSums.runtimeconfig.json
+C:\Users\cbmar\source\repos\SummativeSums\bin\Debug\net5.0\SummativeSums.runtimeconfig.dev.json
+C:\Users\cbmar\source\repos\SummativeSums\bin\Debug\net5.0\SummativeSums.dll
+C:\Users\cbmar\source\repos\SummativeSums\bin\Debug\net5.0\ref\SummativeSums.dll
+C:\Users\cbmar\source\repos\SummativeSums\bin\Debug\net5.0\SummativeSums.pdb
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.csproj.AssemblyReference.cache
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.AssemblyInfoInputs.cache
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.AssemblyInfo.cs
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.csproj.CoreCompileInputs.cache
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.dll
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\ref\SummativeSums.dll
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.pdb
+C:\Users\cbmar\source\repos\SummativeSums\obj\Debug\net5.0\SummativeSums.genruntimeconfig.cache
